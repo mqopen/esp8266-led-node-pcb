@@ -21868,8 +21868,8 @@ We've spent an enormous amount of time creating and checking these footprints an
 <part name="R3" library="rcl" deviceset="R-EU_" device="R0805" value="12K"/>
 <part name="R4" library="rcl" deviceset="R-EU_" device="R0805" value="470R"/>
 <part name="+3V5" library="supply1" deviceset="+3V3" device=""/>
-<part name="R5" library="rcl" deviceset="R-EU_" device="R0805" value="10K"/>
-<part name="R6" library="rcl" deviceset="R-EU_" device="R0805" value="10K"/>
+<part name="R5" library="rcl" deviceset="R-EU_" device="R0805" value="120R"/>
+<part name="R6" library="rcl" deviceset="R-EU_" device="R0805" value="120K"/>
 <part name="FRAME1" library="frames" deviceset="A4L-LOC" device=""/>
 <part name="PWR" library="jumper" deviceset="JP1Q" device=""/>
 <part name="R7" library="rcl" deviceset="R-EU_" device="R0805" value="12K"/>
