@@ -8,6 +8,7 @@
  - On-board programming connector.
  - Programming push button.
  - Jumper for enabling power supply module.
+ - ISPPWR jumper.
  - Notification LED.
  - Intended to be manufactured by dirtypcbs.com.
  - AVR like ISP header for in circuit programming.
