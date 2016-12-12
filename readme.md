@@ -1,5 +1,7 @@
 # ESP8266 LED Node PCB
 
+![Assembled node](img/esp8266-led-assembled.jpg)
+
 ## Features
 
  - Powered by mini DC-DC power supply module ([LM2596](http://www.ti.com/lit/ds/symlink/lm2596.pdf) chip).
@@ -14,5 +16,9 @@
  - RJ-11 connector for connecting LED strips.
 
 ## Images
+
+![Top](img/esp8266-led-top.jpg)
+![Top](img/esp8266-led-bottom.jpg)
+![Board design](img/board.png)
 
 ## Get board
